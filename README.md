@@ -1,4 +1,3 @@
-![Recall](https://github.com/chaitanyakulkarni2k2/Fake-account-detection-on-social-media/assets/108442884/42f03907-0d77-418f-8971-be653fbd1c21)![Recall](https://github.com/chaitanyakulkarni2k2/Fake-account-detection-on-social-media/assets/108442884/57995c36-fb8f-4234-a4a8-baf9a7418db3)# Fake-account-detection-on-social-media
 Developed an machine learning model to detects a fake accounts on social media .We use several algorithm to train the model including LSTM, ANN, Random Forest, XGB, K-means, Decision tree to train the model and comparing the different performance parameters like Accuracy,Precision,Recall,F1-score .Decision tree has maximum accuracy of 98.75%.
 
 
